@@ -24,3 +24,16 @@ for person in people:
 
 for number in range(1, 11):
     print(number, "squared is", number * number)
+
+animals = ['bear', 'tiger', 'penguin', 'zebra']
+first_animal = animals[0]
+print(first_animal)
+third_animal = animals[2]
+print(third_animal)
+
+print("thins is a:", type(random_things))
+
+another_list = random_things[-1]
+print(another_list)
+
+random_things[-1][0]
