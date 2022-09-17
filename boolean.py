@@ -1,5 +1,6 @@
 True and True
 False and True
+False and False
 1 == 1 and 2 == 1
 "love" == "love"
 1 == 1 or 2 != 1
