@@ -1,5 +1,5 @@
 # Write a script that takes a dollar amount and recommennds a tip (15%, 18% and 20%)
-
+#test_by_el
 total = float(input("What is your bill sub-total? ").strip('$'))
 
 tip_15 = total * 0.15
